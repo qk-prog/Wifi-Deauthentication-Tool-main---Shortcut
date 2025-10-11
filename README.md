@@ -1,6 +1,6 @@
 # Wi-Fi Deauthentication Tool Qurban
 
-### 🚀 This tool has been recreated with Python and is available on [ezhil56x/deauther](https://github.com/qk-prog/deauther) ⚠️
+### 🚀 This tool has been created with python
 
 ## Disclaimer
 
@@ -53,3 +53,4 @@ This tool is released under the [MIT License](LICENSE).
 ---
 
 **IMPORTANT:** This tool comes with no guarantees or warranties. The author will not be responsible for any consequences resulting from the use or misuse of this tool. Use it responsibly and at your own risk.
+
